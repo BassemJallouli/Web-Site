@@ -1,4 +1,21 @@
 h1 {
     color: red;
-    background: gray;
+    
     }
+
+.blue-bg {
+    color: gray;
+    background: rgb(0, 225, 255);
+    }
+
+.green {
+        color: green;
+        background: rgb(0, 255, 179);
+        }  
+
+.blue {
+        color: blue;
+        background: rgb(255, 174, 0);
+      }  
+
+        
